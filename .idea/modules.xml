@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/AgeComparator/AgeComparator.iml" filepath="$PROJECT_DIR$/AgeComparator/AgeComparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactorialCalculator/FactorialCalculator.iml" filepath="$PROJECT_DIR$/FactorialCalculator/FactorialCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForCycle/ForCycle.iml" filepath="$PROJECT_DIR$/ForCycle/ForCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" filepath="$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" />
     </modules>
   </component>
 </project>
