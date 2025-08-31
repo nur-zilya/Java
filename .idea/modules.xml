@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/ForCycle/ForCycle.iml" filepath="$PROJECT_DIR$/ForCycle/ForCycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" filepath="$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hw POJO/Hw POJO.iml" filepath="$PROJECT_DIR$/Hw POJO/Hw POJO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
     </modules>
   </component>
 </project>
